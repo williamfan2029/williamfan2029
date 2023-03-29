@@ -1,4 +1,4 @@
-👋 Hi, I’m @william.fan.2029
+👋 Hi, I’m @williamfan2029
 
 <!---
 stoppoverty/stoppoverty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
